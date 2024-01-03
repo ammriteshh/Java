@@ -24,3 +24,7 @@ public class Object {
 // OBJECT ORIENTED PROGRAMMING
 // Every Object has properties and behaviour
 // for Object, first we have to create a class
+
+// JDK = Java Development Kit
+// JVM = Java Virtual Machine
+// JRE = Java Runtime Environment
